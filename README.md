@@ -79,7 +79,7 @@ The machine learning model is trained using the `train_model.py` script. It uses
 To retrain the model with new data:
 
 1. Update the `Housing.csv` file with your dataset.
-2. Run `python train_model.py`.
+2. Run `python model.py`.
 3. The new model will replace the existing `houseprice.pkl` file.
 
 <p align="center">
