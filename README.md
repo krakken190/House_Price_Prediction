@@ -33,7 +33,7 @@ This web application predicts house prices based on various features using a mac
 
 ## Demo
 
-
+https://github.com/user-attachments/assets/a2a9bc84-f5cd-4229-99a3-e0c72b6d1b8d
 
 ## Setup
 
